@@ -911,6 +911,15 @@ TESTIMONIALS ↓
     align-items: center;
 }
 
+.divider {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    border-right-width: 1px;
+    width: 0.5px;
+    background-color: rgb(237, 242, 247);
+    height: 20px;
+}
+
 .testimonial__button {
     display: flex;
     justify-content: center;
